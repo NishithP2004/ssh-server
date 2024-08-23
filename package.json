@@ -1,0 +1,16 @@
+{
+  "name": "ssh-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nishith P",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ngrok": "^5.0.0-beta.2",
+    "ssh2": "^1.15.0"
+  }
+}
